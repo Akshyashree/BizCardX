@@ -4,7 +4,6 @@ In this streamlit web app you can upload an image of a business card and extract
 # Also uploaded the images ,videos and sample card images used
 
 # Program Explaination
-Sure! Here's a line-by-line explanation of the code:
 
 ```python
 import pandas as pd
